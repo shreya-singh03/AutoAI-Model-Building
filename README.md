@@ -17,9 +17,3 @@ Located in `dataset/data.csv`, the dataset contains:
 - **Area**: Area of the house in square feet
 - **Price**: Corresponding house price in ₹
 
-##  How to Run
-
-1. Clone the repository
-2. Install requirements:
-   ```bash
-   pip install -r requirements.txt
